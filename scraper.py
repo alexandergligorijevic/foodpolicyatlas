@@ -5,7 +5,15 @@ from datetime import datetime, timezone
 
 XML_URL = "https://atlas.foodbanking.org/wp-content/uploads/country-data.xml"
 
-response = requests.get(XML_URL, timeout=30)
+headers = {
+
+    "User-Agent": "Mozilla/5.0",
+
+    "Referer": "https://atlas.foodbanking.org/"
+
+}
+
+response = requests.get(XML_URL, headers=headers, timeout=30)
 response.raise_for_status()
 
 xml_text = response.text
