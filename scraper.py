@@ -1,32 +1,45 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;\f1\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+import json
+import requests
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
 
-\f0\fs26 \cf0 import requests
-\f1\fs24 \
-\
+XML_URL = "https://atlas.foodbanking.org/wp-content/uploads/country-data.xml"
 
-\f0\fs26 url = "https://atlas.foodbanking.org/wp-content/uploads/country-data.xml"
-\f1\fs24 \
-\
+response = requests.get(XML_URL, timeout=30)
+response.raise_for_status()
 
-\f0\fs26 r = requests.get(url, timeout=30)
-\f1\fs24 \
-\
+xml_text = response.text
 
-\f0\fs26 r.raise_for_status()
-\f1\fs24 \
-\
+# Save raw XML too
+with open("country-data.xml", "w", encoding="utf-8") as f:
+    f.write(xml_text)
 
-\f0\fs26 with open("country-data.xml", "w", encoding="utf-8") as f:
-\f1\fs24 \
-\
+root = ET.fromstring(xml_text)
 
-\f0\fs26     f.write(r.text)
-\f1\fs24 \
-\
+def element_to_dict(element):
+    data = {}
+    for child in element:
+        if len(child):
+            data[child.tag] = element_to_dict(child)
+        else:
+            data[child.tag] = child.text
+    return data
 
-\f0\fs26 print("Downloaded XML successfully")}
+countries = []
+
+for child in root:
+    item = element_to_dict(child)
+    item["_xml_tag"] = child.tag
+    countries.append(item)
+
+output = {
+    "source": XML_URL,
+    "scraped_at": datetime.now(timezone.utc).isoformat(),
+    "record_count": len(countries),
+    "countries": countries
+}
+
+with open("country-data.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, ensure_ascii=False, indent=2)
+
+print(f"Downloaded and converted {len(countries)} records")
