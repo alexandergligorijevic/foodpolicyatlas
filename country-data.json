@@ -1,6 +1,6 @@
 {
   "source": "https://atlas.foodbanking.org/wp-content/uploads/country-data.xml",
-  "scraped_at": "2026-06-22T13:24:12.736057+00:00",
+  "scraped_at": "2026-06-23T10:51:23.295507+00:00",
   "record_count": 30,
   "countries": [
     {
@@ -38,7 +38,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. Greece’s VAT scheme exempts food donations from VAT at the time of donation if they are donated free of charge to qualifying entities for the purpose of providing relief to vulnerable social groups and allows food donors to deduct VAT paid on inputs or ingredients for food that ends up being donated to qualifying entities.",
       "data_donation": "Government imposes organic waste bans that incentivize food donation, or government imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. Greece plans to transition to a pay-as-you-throw scheme to charge waste generators based on the amount of waste produced and mandates the separate collection of bio-waste, but has not yet implemented these policies. However, the EU Waste Framework Directive requires Member States to implement laws requiring food business operators to propose donation agreements to food redistribution organizations and food banks.",
       "data_government": "Government has allocated funding and incentives that may be used for food recovery and donation, but it has not specifically designated funds for such purposes. In Greece, the Green Fund supports a broad range of environmental issues that could include food loss and waste, but the government does not have a grant fund specifically targeting food waste reduction or food donation. ",
-      "data_national": "Government has a codified national FLW and food donation goal or has adopted a national FLW law or developed a national policy, plan, or strategy that explicitly promotes food donation as a solution to food loss and waste. Greece’s Integrated Framework for Waste Management formalizes the waste management hierarchy, which establishes donation to humans as a preferred use over alternatives such as composting or landfill, and explicitly permits surplus food to be donated if it is safe for consumption. Greece’s National Waste Management Plan and National Waste Prevention Program both set forth policies to improve food waste management, including the promotion of food donation.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside an official national strategy or action plan, but food donation and redistribution are not explicitly promoted as a strategic priority. Monitoring or reporting mechanisms may be partial or underdeveloped.<br />\r\nGreece is subject to EU binding food waste reduction targets, and its National Waste Prevention Program organizes its approach to food waste around six pillars, including the promotion of food donation.<br />\r\n",
       "_xml_tag": "GRC"
     },
     {
@@ -152,7 +152,7 @@
       "data_tax_barrier": "The value-added tax (VAT) is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Ireland levies VAT on most food products; it has not stated that donated food is exempt from this VAT; and it does not allow donors to reclaim input VAT for food that is ultimately donated. ",
       "data_donation": "Government imposes organic waste bans that incentivize food donation, or government imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. EU Directive 2008/98/EC (the “Waste Framework Directive”) requires that Member States adopt waste management plans and waste prevention programs, and provides conceptual frameworks to do so, including a waste hierarchy. In Ireland, producers are prohibited from disposing food waste in residual waste collection and the country imposes levies on the disposal of waste at landfills, which has been effective in reducing food waste. Ireland has not adopted national legislation that requires private or public operations to donate excess food.",
       "data_government": "Government offers sustainable and sufficient grants, incentives, or funding tailored for food donation activities that are widely known and claimed by relevant stakeholders. Government also offers technical assistance for effective utilization of these funds. The EU has several funding sources available to Member States for food donation activities, including the shared management strand of the European Social Fund+, under which funds can be used to offset associated costs of food donation. Ireland also offers several funding sources for food waste reduction under the Circular Economy Programme.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. Ireland’s National Food Waste Prevention Roadmap 2023-2025 is a comprehensive, whole-of-government strategy to reduce food loss and waste in the country. The Roadmap covers nine areas of focus, including food redistribution, and outlines key priority actions for specified governmental departments and stakeholders to take to reduce FLW.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place.<br />\r\n<br />\r\nIreland's National Food Waste Prevention Roadmap 2023–2025 covers the full supply chain with the CCEE as designated lead, explicitly promotes food donation and redistribution as a strategic priority, and includes accountability mechanisms.<br />\r\n",
       "_xml_tag": "IRL"
     },
     {
@@ -185,6 +185,7 @@
       "security_index": "11.4",
       "security_index_filter": "#6988BF",
       "flw": "8.8 million tons",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level.<br />\r\n<br />\r\nVietnam has no national FLW goal, no designated lead ministry, and no national plan or strategy specifically addressing food loss and waste.<br />\r\n",
       "_xml_tag": "VNM"
     },
     {
@@ -222,7 +223,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Across all states, food donations are exempt from ICMS tax through the federal Comida no Prato program and amended ICMS Agreement No. 018. However, increased guidance and logistical improvements in the ICMS exemption process are required to fully diminish the adverse consequences of the ICMS tax on food donation.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. In Brazil, there are currently no national or provincial laws that require private or public operations to donate excess food or that impose a ban on organic waste.",
       "data_government": "Government has allocated funding and incentives that may be used for food recovery and donation, but it has not specifically designated funds for such a purpose. In Brazil, there is a foundation of government grant opportunities and research grants; however, the programs do not provide sufficient funding and are not adequately publicized to support food donors and food banks across the country, especially in the areas where infrastructure is most significantly lacking.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place. Brazil's Intersectoral Strategy spans 26 ministries and explicitly names food donation as a priority, addressing civil liability, donor tax exemptions, and labeling.",
       "_xml_tag": "BRA"
     },
     {
@@ -262,7 +263,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT or other tax requirements. The United States does not levy the VAT or impose an additional tax burden on food donations.",
       "data_donation": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. There is no national legislation that requires private or public operations to donate excess food, nor is there an organic waste ban imposed at the national level. Several state and local governments have enacted organic waste bans or waste diversion laws to promote composting, recycling, donation, or other methods of recovery. Several also enforce donation requirements or targets.",
       "data_government": "Government offers sustainable and sufficient grants, incentives, or funding tailored for food donation activities that are widely known and claimed by relevant stakeholders. Government also offers technical assistance for effective utilization of these funds. The United States offers generous funding to support food recovery and donation. The Emergency Food Assistance Program (TEFAP), for example, uses national funding to provide in-kind distribution of surplus food as well as funding for administrative expenses in all states to support local agencies, such as food banks. Many states also offer funding for food recovery and donation.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. The national government has adopted a Federal Interagency Strategy on Food Loss and Waste that advances national policy goals in this arena. The 2018 US Farm Bill also provides for a US Food Loss and Waste Liaison, dedicated programming on the reduction of food loss and waste, and the promotion of food donation.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place. The U.S. has a formal USDA/EPA/FDA interagency agreement in place along with a published national strategy for food loss and waste reduction.",
       "_xml_tag": "USA"
     },
     {
@@ -302,7 +303,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT or other tax requirements. Most food items are not subject to the standard VAT rate of 20 percent, and food donations made to registered food banks are exempt from the tax.",
       "data_donation": "Government imposes organic waste bans or food waste penalties that compel certain supply chain actors to reduce food waste with no specific requirement or hierarchy favoring food donation. However, these laws are only applied at the local or regional level, are subject to many exemptions, are very narrowly applied, and/or are not well enforced. There is no UK legislation requiring that businesses or consumers donate excess food, nor is there a national ban on sending food waste to landfills. However, several of the United Kingdom’s devolved countries have enacted laws that ban, to an extent, sending food waste to landfills, but they do not incorporate specific requirements or goals for donation of edible surplus food.",
       "data_government": "Government offers sustainable and sufficient grants, incentives, or funding tailored for food donation activities that are widely known and claimed by relevant stakeholders. Government also offers technical assistance for effective utilization of these funds. While the UK government itself does not have funding specifically aimed at food waste reduction and food donations, the countries of the United Kingdom offer several different funding opportunities for governmental support for food recovery and donation. The UK countries also offer small- and large-scale grants for citizens and businesses for food donation and food recovery initiatives aimed at reducing food waste. Also, despite not being aimed at food waste reduction and food donation, the UK Research Institute (UKRI) grants have supported such food waste-related initiatives. The UK government also pays the nonprofit organization Waste and Resources Action Programme (WRAP) to promote food waste reduction.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. While the UK technically does not retain the authority to adopt a law or policy on food loss, waste, or donation, the UK government has formally stated its commitment to halve food waste by 2030. In addition, member countries have accordingly exercised their delegated or devolved authority to adopt a comprehensive policy or strategy on this issue.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place.<br />\r\n<br />\r\nThe UK's WRAP national food waste reduction roadmap serves as the national strategy, with Courtauld (a voluntary agreement with government involvement) providing additional structure and accountability.<br />\r\n",
       "_xml_tag": "GBR"
     },
     {
@@ -324,8 +325,8 @@
       "donation_tag": "LIMITED POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "58,048,332",
       "population_filter": "#8DAFE2",
       "gdp": "US$790.625 billion",
@@ -342,7 +343,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. In South Africa vendors must levy a standard rate of 15 percent for all commercial transactions, including the sale of food. However, the VAT Act and the Tax Administration Act also permit vendors to claim a refund from the South Africa Revenue Service.",
       "data_donation": "Government imposes organic waste bans or food waste penalties that compel certain supply chain actors to reduce food waste with no specific requirement or hierarchy favoring food donation. However, these laws are only applied at the local or regional level, are subject to many exemptions, are very narrowly applied, and/or are not well enforced. There is no national legislation that requires private or public operations to donate excess food, nor are there organic waste bans imposed at the national level. At the provincial level, Western Cape enacted an organic waste ban to divert food waste from landfills.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. South Africa has readily engaged with relevant stakeholders in developing the South Africa Food Loss and Waste Voluntary Agreement. However, no national law allocates funds for food recovery and donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. The South African government recently developed the Food Loss and Waste Voluntary Agreement in partnership with the Consumer Goods Council of South Africa. While this agreement seeks to leverage food recovery and donation as a solution to food loss, food waste, and hunger, it does not constitute an official government policy or legal framework.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nSouth Africa has an SDG 12.3 goal but no adopted strategy, though a national strategy is currently in draft form.<br />\r\n",
       "_xml_tag": "ZAF"
     },
     {
@@ -364,8 +365,8 @@
       "donation_tag": "NO POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "5,975,383",
       "population_filter": "#CFE2FC",
       "gdp": "US$578.254 billion",
@@ -382,7 +383,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT (known as a Goods and Services Tax (GST) in Singapore) or other tax requirements. While in-kind food donations incur input GST upon initial purchase by the donor, businesses are able to claim an input credit even though the food was offered for donation, thereby offsetting the cost.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Singapore does not currently impose any donation requirements or food waste penalties to prevent food loss and waste or promote food recovery and donation.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. There are currently no national grants or public funding mechanisms specifically designed to support food donation in Singapore. The government also has not created any recognition programs to promote greater food recovery.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. Singapore has not adopted a national law or policy that focuses on food donation as a solution to food loss, food waste, and hunger. However, the government has elevated the reduction of food loss and waste as a national priority under the Resource Sustainability Act 2019 and the “Towards Zero Waste”<br />\r\ncampaign.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nSingapore's Zero Waste national program includes a food section but has no standalone FLW goal, and food donation is not promoted as a strategic priority.<br />\r\ncampaign.",
       "_xml_tag": "SGP"
     },
     {
@@ -404,8 +405,8 @@
       "donation_tag": "MODERATE POLICY",
       "government": "#FFC700",
       "government_tag": "MODERATE POLICY",
-      "national": "#0D775C",
-      "national_tag": "STRONG POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "32,440,172",
       "population_filter": "#B6D1F6",
       "gdp": "US$421.937 billion",
@@ -422,7 +423,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT (known as the Impuesto General a las Ventas or IGV in Peru) or other tax requirements. Food is subject to the standard 16 percent IGV rate pursuant to the General Sales Tax and Selective Consumption Tax Law. However, the Food Donation Law allows food donors to reclaim the IGV credit on food donations made free of charge to tax-exempt organizations that are registered as donation-receiving entities.",
       "data_donation": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. The Food Donation Law includes a donation requirement on food storage facilities and supermarkets. The requirement was intended to go into effect in August 2019, three years after the law’s enactment. However, due to a lack of final regulations, the requirement is not enforced.",
       "data_government": "Government has adopted or proposed a clear mechanism for delivering grants, incentives, or funding tailored for food donation activities. However, relevant stakeholders are unable to claim or use these benefits or are not provided technical assistance for effective implementation. The Law Against Food Loss and Waste recognizes government financial support for food loss and waste reduction activities. Regulations further task the government with promoting participation in grant competitions to fund relevant projects. The specific grant and funding opportunities, however, are not identified.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. The Peruvian government adopted a law that promotes food donation and facilitates the transport of donations in situations of natural disasters. The government has enacted a national law that promotes the reduction and prevention of food loss and waste.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nPeru has an SDG 12.3 goal and a food waste prevention law, with a national strategy scoping analysis currently underway.<br />\r\n",
       "_xml_tag": "PER"
     },
     {
@@ -444,8 +445,8 @@
       "donation_tag": "MODERATE POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#0D775C",
-      "national_tag": "STRONG POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "7,439,863",
       "population_filter": "#CFE2FC",
       "gdp": "US$91.759 billion",
@@ -462,7 +463,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Paraguay’s VAT applies to food and requires payment of a 5 percent tax at each stage of the supply chain, which could create a financial burden on food donors and food recovery organizations.",
       "data_donation": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. Paraguay bans customs officials from discarding food that is fit for human consumption.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Paraguay does not offer any national or regional grants for food donation. ",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. Paraguay has adopted a national law or policy to promote food donation or prevent food loss and waste. ",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nParaguay's Food Donation Law (Ley 6601) establishes a legal foundation for donations, but no national FLW strategy has been adopted.<br />\r\n",
       "_xml_tag": "PRY"
     },
     {
@@ -484,8 +485,8 @@
       "donation_tag": "LIMITED POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "129,875,529",
       "population_filter": "#7999D2",
       "gdp": "US$2.418 trillion",
@@ -502,7 +503,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT or other tax requirements. Mexico imposes a VAT at a general rate of 16 percent on goods sold but exempts most food items from this tax. As a result, food donors do not have to bear this additional cost. Mexico does not impose other tax burdens on donated food.",
       "data_donation": "Government imposes organic waste bans or food waste penalties that compel certain supply chain actors to reduce food waste with no specific requirement or hierarchy favoring food donation. However, these laws are only applied at the local or regional level, are subject to many exemptions, are very narrowly applied, and/or are not well enforced. There is no national legislation that requires private or public operations to donate excess food, nor are there organic waste bans imposed at the national level. However, these policies have been adopted at the state level, imposing sanctions on individuals or organizations that contribute to unnecessary food waste.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Mexico has identified insufficient cold-chain infrastructure and a lack of financial support for food recovery as among the main drivers of food loss and waste. Nevertheless, there are currently no national grants or public funding mechanisms specifically designed to support on-farm recovery or food donation. Investments in cold-chain management focus on export supply chains rather than domestic food recovery efforts. National grant funding targets rural development and poverty reduction but fails to support food donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. State governments in Mexico are increasingly adopting laws and policies to prevent food loss and waste and to promote food donation. However, no such framework has been adopted on the national level.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\n<br />\r\nMexico has adopted SDG 12.3 and a World Bank/WRAP conceptual framework has been drafted, but no official national strategy exists. A voluntary agreement (Pacto por la Comida) with 20 signatories is in place.<br />\r\n",
       "_xml_tag": "MEX"
     },
     {
@@ -542,7 +543,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. Nigeria’s VAT system provides two categories of exceptions to taxable supplies that directly impact food products. Basic food items in Nigeria are exempt from VAT. Goods, including food purchased for use in humanitarian, donor-funded projects, are zero-rated. This means that no VAT is due when food is donated and the VAT scheme does not pose a barrier to food donation. ",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Nigeria does not require private or public operations to donate excess food, nor are there organic waste bans imposed at the national or state level.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Nigeria does not offer any national or state grants for food donation. ",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. Nigeria has not adopted a national law or policy to promote food donation or prevent food loss and waste.",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level.<br />\r\n<br />\r\nNigeria references SDG 12.3 as a goal only, with no national law, strategy, or designated lead entity.<br />\r\n",
       "_xml_tag": "NGA"
     },
     {
@@ -582,7 +583,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. Kenya’s VAT system provides two categories of exceptions to taxable supplies that directly impact food products, which are “exempt” and “zero-rated.” Certain foods in Kenya are exempt or zero-rated, while some food products are both exempt and zero-rated. ",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Kenya does not require private or public operations to donate excess food, nor are there organic waste bans imposed at the national level or county level.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Kenya does not offer any national or county grants for food donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. Kenya has not adopted a national law or policy to promote food donation or prevent food loss and waste. ",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level.<br />\r\n<br />\r\nKenya references SDG 12.3 as a goal only, with no national law, strategy, or designated lead entity.<br />\r\n",
       "_xml_tag": "KEN"
     },
     {
@@ -604,8 +605,8 @@
       "donation_tag": "STRONG POLICY",
       "government": "#FD6735",
       "government_tag": "LIMITED POLICY",
-      "national": "#FFC700",
-      "national_tag": "MODERATE POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "9,043,387",
       "population_filter": "#CFE2FC",
       "gdp": "US$393.861 billion",
@@ -622,7 +623,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT or other tax requirements. Israel does not levy the VAT or impose an additional tax burden on food donations.",
       "data_donation": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. The law requires government bodies, local authorities, and state-owned companies to establish food donation partnerships with recognized food distribution organizations",
       "data_government": "Government has adopted or proposed a clear mechanism for delivering grants, incentives, or funding tailored for food donation activities. However, relevant stakeholders are unable to claim or use these benefits, or are not provided technical assistance for effective implementation. Israel does not offer any national or regional grants to build food donation infrastructure or to invest in food donation activities. However, the 2018 Food Donation Encouragement Law introduced a government public recognition program for food donors that has not yet been implemented. ",
-      "data_national": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. Israel has a food donation requirement that applies to public institutions.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nIsrael has an SDG 12.3 goal and a food donation liability law, but no adopted national strategy, though one is currently in development.<br />\r\n",
       "_xml_tag": "ISR"
     },
     {
@@ -644,8 +645,8 @@
       "donation_tag": "NO POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "279,476,346",
       "population_filter": "#6988BF",
       "gdp": "US$3.246 trillion",
@@ -662,7 +663,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Indonesia’s VAT applies to food and requires payment of an 11% tax at each stage of the supply chain including donation, which could create a financial burden on food donors and food recovery organizations.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Indonesia does not require private or public operations to donate excess food, nor are there any organic waste bans imposed at the national or regional level.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Indonesia does not offer any national or regional grants for food donation. ",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. Indonesia has not adopted a national law or policy to promote food donation or prevent food loss and waste. ",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nIndonesia has established a specific national goal, but no strategy or designated lead entity has been formally documented.<br />\r\n",
       "_xml_tag": "IDN"
     },
     {
@@ -684,8 +685,8 @@
       "donation_tag": "NO POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "1,399,179,585",
       "population_filter": "#6988BF",
       "gdp": "US$9.279 trillion",
@@ -702,7 +703,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT (known as a Goods and Services Tax (GST) in India) or other tax requirements. While India imposes a GST on certain food items, several foods are exempt from the tax, as are certain charitable organizations. The application of the GST to the free donation of food is not clearly defined. Most businesses report that the GST is not a barrier to donation.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. There is currently no national, state, or territorial legislation requiring private or public operations to donate excess food. India also has not adopted organic waste bans at the national or local levels.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. There are currently no national grants or public funding mechanisms specifically designed to support food donation in India. The government also has not created any recognition programs to promote greater food recovery.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. India has not established a national law or framework that promotes food donation as a solution to food loss, waste, and hunger.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\n<br />\r\nIndia has set an ambitious goal and FSSAI has self-designated as lead with Surplus Food Regulations and the Indian Food Sharing Alliance, but no formal national strategy document has been adopted.<br />\r\n",
       "_xml_tag": "IND"
     },
     {
@@ -742,7 +743,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to food donation as a result of the VAT. While most transactions, including the sale of food, are subject to a standard VAT rate of 12 percent, Guatemala’s VAT Law exempts all contributions and food donations made to legally registered nonprofit organizations from the tax.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Guatemala does not currently impose any donation requirements or food waste penalties to prevent food loss and waste or promote food recovery and donation.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. The government does not currently administer national grants or incentives to prevent food loss and waste or promote food recovery and donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. Despite recent efforts to adopt a national law on the prevention of food loss and waste and the promotion of food donation, Guatemala has not adopted a national law or policy on this issue.",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level. Guatemala references SDG 12.3 as a goal only, with no national law, strategy, or designated lead entity.<br />\r\n",
       "_xml_tag": "GTM"
     },
     {
@@ -782,7 +783,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Ghana’s VAT applies to food and requires payment of 12.5 percent with an adjusted “flat-rate” charge of 3 percent for wholesale suppliers or retail sellers. VAT is payable by the supplier or importer of the good or service. However, certain agricultural and aquatic food products in their raw state, produced domestically, are exempt from the VAT and may be donated without imposing VAT duties on the food business or food recovery organization. For all other food donations, such as prepackaged or prepared foods, VAT is applied at each stage of the production and distribution chain, which could create a financial burden for donors and recovery organizations",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Ghana does not require private or public operations to donate excess food, and no organic waste bans are imposed at the national or country level. ",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Ghana does not offer any national or regional grants for food donation. ",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. Ghana has not adopted a national law or policy to promote food donation or prevent food loss and waste.",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level. Ghana references SDG 12.3 as a goal only, with no national law, strategy, or designated lead entity.<br />\r\n",
       "_xml_tag": "GHA"
     },
     {
@@ -836,8 +837,8 @@
       "donation_tag": "STRONG POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#0D775C",
-      "national_tag": "STRONG POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "17,483,326",
       "population_filter": "#CFE2FC",
       "gdp": "US$189.88 billion",
@@ -854,7 +855,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on some food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Ecuador’s VAT applies to food and requires payment of a 12 percent tax at each stage of the supply chain including donation for foods that are not specifically taxed at a zero rate, which could create a financial burden on donors and recovery organizations.",
       "data_donation": "Government imposes an organic waste ban that incentivizes donation or imposes a food donation requirement. This applies broadly to waste generators along the supply chain, is readily enforced, and is enacted at the national level. Ecuador bans the disposal of food that is fit for human consumption.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. Ecuador does not offer any national or regional grants for food donation. ",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. Ecuador has adopted a national law or policy to promote food donation or prevent food loss and waste.",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level. A 2022 law bans the destruction of food fit for human consumption and codifies a food donation hierarchy, but no national FLW strategy exists.",
       "_xml_tag": "ECU"
     },
     {
@@ -894,7 +895,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The Dominican Republic imposes a VAT known as the Transfer of Industrialized Goods and Services Tax (ITBIS). However, the ITBIS does not present a practical barrier to food donation as agricultural food products are exempt from the tax.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. The Dominican Republic does not currently impose any donation requirements or food waste penalties to prevent food loss and waste or promote food recovery and donation.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. The government does not currently administer national grants or incentives to prevent food loss and waste or promote food recovery and donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. The Dominican Republic has consistently proposed national laws for the prevention of food loss and waste and the promotion of food donation. However, the government has yet to adopt these measures. In the absence of national law or policy, the National Committee for the Prevention and Reduction of Food Losses and Waste has helped promote food donation efforts.",
+      "data_national": "No national food loss and waste reduction goal has been codified, no designated lead ministry or national plan exists, and food donation is not addressed at the national policy level. The Dominican Republic has adopted SDG 12.3 as a reference goal only, with no national law, strategy, or designated lead in place.",
       "_xml_tag": "DOM"
     },
     {
@@ -916,8 +917,8 @@
       "donation_tag": "NO POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "5,256,612",
       "population_filter": "#CFE2FC",
       "gdp": "US$109.26 billion",
@@ -934,7 +935,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Costa Rica applies the VAT to all food sales, which is broadly defined to include charitable donations. A reduced VAT rate of 1 percent applies to basic food products. However, the tax may still create a burden on donors and food recovery organizations.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. Costa Rica does not currently impose any donation requirements or food waste penalties to prevent food loss and waste or promote food recovery and donation.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. The government does not currently administer national grants or incentives to prevent food loss and waste or promote food recovery and donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. The National Policy of Sustainable Production and Consumption (2018–2030) prioritizes the reduction of food waste but does not establish food donation as integral to this strategy. Nongovernmental organizations and institutional actors have also formed the Costa Rican Network for the Reduction of Food Loss and Waste to advocate for policy change.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy.<br />\r\nCosta Rica has set a goal more ambitious than SDG 12.3, but no national strategy or lead structure exists to pursue it.<br />\r\n",
       "_xml_tag": "CRI"
     },
     {
@@ -956,8 +957,8 @@
       "donation_tag": "STRONG POLICY",
       "government": "#FFC700",
       "government_tag": "MODERATE POLICY",
-      "national": "#0D775C",
-      "national_tag": "STRONG POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "49,336,454",
       "population_filter": "#B6D1F6",
       "gdp": "US$754.645 billion",
@@ -974,7 +975,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to donation as a result of the VAT or other tax requirements. Most food items are not subject to the standard VAT rate of 19 percent. Donations made to registered food banks are exempt from the tax.",
       "data_donation": ": Government imposes an organic waste ban that incentivizes donation or imposes a food donation requirement. This applies broadly to waste generators along the supply chain, is readily enforced, and is enacted at the national level.",
       "data_government": "Government has adopted or proposed a clear mechanism for delivering grants, incentives, or funding tailored for food donation activities. However, relevant stakeholders are unable to claim or use these benefits or are not provided technical assistance for effective implementation. Law 1990/2019 indicates that the Policy Against Food Loss and Waste will include a funding component to support greater food donation and recovery operations. Details of this funding have not yet been developed.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. Colombia’s Law 1990/2019 established a National Policy Against Food Loss and Waste. The policy provides a comprehensive strategy on food loss and waste as well as recognizes food donation as essential to this pursuit.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy. Colombia has no official national strategy, but Law 1990 codifies a food loss and waste prevention hierarchy that prioritizes food donation over other forms of food recovery and requires institutional reporting on FLW prevention.",
       "_xml_tag": "COL"
     },
     {
@@ -996,8 +997,8 @@
       "donation_tag": "MODERATE POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#0D775C",
-      "national_tag": "STRONG POLICY",
+      "national": "#FFC700",
+      "national_tag": "MODERATE POLICY",
       "population": "1,413,142,846",
       "population_filter": "#6988BF",
       "gdp": "US$24.861 trillion",
@@ -1014,7 +1015,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. Because Chinese tax law treats donation as a sale for VAT purposes, a VAT obligation on the donor and/or food recovery organization may pose a barrier to food donation. ",
       "data_donation": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. China’s Anti-Food Waste Law establishes a framework for minimizing food loss and waste and changing consumer behavior around food waste particularly in the catering sector, with monetary penalties for violating the provisions therein. While the law encourages food donation, it does not require it or specifically penalize organic waste disposal into landfills.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. China does not currently offer any national or regional grants specifically for food donation.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. China passed a comprehensive Anti-Food Waste Law, adopted in April 2021, that complements existing national frameworks for food waste education and reduction.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside an official national strategy or action plan, but food donation and redistribution are not explicitly promoted as a strategic priority. Monitoring or reporting mechanisms may be partial or underdeveloped. China's Anti-Food Waste Law and Action Plan on FLW Reduction, paired with the Clean Plate Campaign, establish a framework for reduction, though food donation is not explicitly promoted as a strategic priority within the plan.",
       "_xml_tag": "CHN"
     },
     {
@@ -1036,8 +1037,8 @@
       "donation_tag": "MODERATE POLICY",
       "government": "#AE2840",
       "government_tag": "NO POLICY",
-      "national": "#AE2840",
-      "national_tag": "NO POLICY",
+      "national": "#0D775C",
+      "national_tag": "STRONG POLICY",
       "population": "18,549,457",
       "population_filter": "#CFE2FC",
       "gdp": "$496.085 billion",
@@ -1054,7 +1055,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to donation as a result of the VAT or other tax requirements. While transactions, including the sale of food, are subject to a standard VAT rate of 19 percent, Chile expressly permits taxpayers to claim the tax credit on food that is donated free of charge.",
       "data_donation": "Government imposes organic waste bans that incentivize food donation or imposes food donation requirements. These laws are either only enacted at the local level or are enacted at the national level but not yet implemented or are poorly enforced. Chile’s 2020 tax reform indicates that the voluntary destruction of unmarketable food that is still suitable for human consumption may be subject to a 40 percent single tax penalty. However, details concerning the application, implementation, and enforcement of this penalty require further clarification.",
       "data_government": "Government does not allocate funding or incentives to support food recovery or donation. The government does not currently administer national grants or incentives to prevent food loss and waste or promote food recovery and donation.",
-      "data_national": "Government has not adopted a national food donation law or developed a national policy or plan that promotes food donation as a solution to food loss and waste. The Chilean government has formed a multisectoral National Committee for the Prevention of Food Losses and Waste. However, it has not developed a comprehensive legal or policy framework to promote food donation as a solution to food loss, food waste, and hunger.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place. Chile's National Organic Waste Strategy 2044 explicitly prioritizes food redistribution as a key solution.",
       "_xml_tag": "CHL"
     },
     {
@@ -1076,8 +1077,8 @@
       "donation_tag": "LIMITED POLICY",
       "government": "#0D775C",
       "government_tag": "STRONG POLICY",
-      "national": "#0D775C",
-      "national_tag": "STRONG POLICY",
+      "national": "#FD6735",
+      "national_tag": "LIMITED POLICY",
       "population": "38,516,736",
       "population_filter": "#B6D1F6",
       "gdp": "$1.832 trillion",
@@ -1094,7 +1095,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. The existing tax scheme does not create a barrier to donation as a result of the VAT (known as a Goods and Services Tax (GST) in Canada) or other tax requirements. While GST-registered businesses are permitted to charge an input GST or GST credit on goods sold, taxpayers may ultimately reclaim this credit, regardless of whether food is offered for donation.",
       "data_donation": "Government imposes organic waste bans or food waste penalties that compel certain supply chain actors to reduce food waste with no specific requirement or hierarchy favoring food donation. However, these laws are only applied at the local or regional level, are subject to many exemptions, are very narrowly applied, and/or are not well enforced. There is no national, provincial, or territorial legislation that requires private or public operations to donate excess food, nor is there any organic waste ban imposed at the national level. Several provinces and local governments have passed organic waste bans that promote composting as the preferred method of food recovery.",
       "data_government": "Government offers sustainable and sufficient grants, incentives, or funding tailored for food donation activities that are widely known and claimed by relevant stakeholders. Government also offers technical assistance for effective utilization of these funds. Canada is one of the few countries to offer governmental support for food recovery and donation. The recently introduced Food Policy for Canada, for example, includes specific H6 funds to support innovative food waste reduction proposals. The government should further clarify these opportunities and ensure that funding streams are sustainable.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. Canada’s National Food Policy features a Food Waste Reduction Challenge, which promotes food recovery and donation as a solution to food loss and waste and food insecurity.",
+      "data_national": "The government has codified a national food loss and waste reduction goal, but without an accompanying national strategy or action plan. Food donation and redistribution are not explicitly promoted as a solution within national policy. <br />\r\n<br />\r\nCanada has an active national goal and federal initiatives referencing food donation, including mention in the waste hierarchy on the government website and in Food Policy for Canada, but no formally adopted national strategy.<br />\r\n",
       "_xml_tag": "CAN"
     },
     {
@@ -1134,7 +1135,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is not levied on food donation, is applied at a zero rate, or donors/food recovery organizations may recover this additional cost. There are no specific tax barriers to donation in Australia, as most food and drink is “zero rated” for the value-added tax, known as the goods and services tax (GST) in Australia. This means no GST is charged on such foods. For food that is not “zero rated,” such as confectionary goods, savory snacks, ice cream, biscuits, bakery products, alcohol, and many flavored beverages that are less than 90 percent by volume fruit or vegetable juice, a business can claim an input GST credit for GST paid when acquiring ingredients if the food is donated. This means that taxpayers may offer this food for donation without concern about transferring and reclaiming the GST.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. There are currently no national or state or territory laws that require private or public operations to donate excess food or that impose a ban on organic waste in Australia.",
       "data_government": "Government has allocated funding and incentives that may be used for food recovery and donation, but it has not specifically designated funds for such a purpose. While no national grants are specifically for food donation or recovery efforts, some states and territories have their own funds to support these initiatives. For example, the New South Wales government awarded $337 million in Australian dollars (AUD) in funding for the “Waste Less, Recycle More” initiative. More than AUD$25 million was allocated to prioritize increasing the capacity for surplus food donation and distribution, among several other waste and recycling initiatives.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. To address the environmental, economic, and social impacts of food waste in Australia, the Australian Department of Agriculture, Water and the Environment (DAWE) published the National Food Waste Strategy in 2017. This aligns with the United Nations Transforming Our World: 2030 Agenda for Sustainable Development’s goals of reducing food waste by 50 percent by 2030. The Australian government also contracted Food Innovation Australia Limited (FIAL) to conduct a feasibility study on the National Food Waste Strategy to identify ways to achieve its goals.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place.<br />\r\n<br />\r\nAustralia's national strategy, roadmap, and feasibility study prioritize food redistribution within the waste hierarchy, backed by robust monitoring mechanisms.",
       "_xml_tag": "AUS"
     },
     {
@@ -1174,7 +1175,7 @@
       "data_tax_barrier": "The value-added tax (IGV/VAT/IVA) or other tax levied on sold goods is levied on food that is donated, or a credit on the VAT incurred when acquiring raw goods cannot be credited for food that is donated. Thus, donors and/or recipient organizations bear this additional cost. The existing tax scheme creates a barrier to donation as a result of the VAT (Impuesto al Valor Agregado). Taxpayers in Argentina are permitted to claim a VAT credit on food that is discarded but are responsible for paying the full cost of this credit if they donate food. As a result, many taxpayers perceive the VAT as imposing a penalty on food donation and prefer to throw away rather than donate food.",
       "data_donation": "Government has not adopted organic waste bans or donation requirements at any level of government. There are currently no national or provincial laws that require private or public operations to donate excess food or that impose a ban on organic waste.",
       "data_government": "Government has allocated funding and incentives that may be used for food recovery and donation, but it has not specifically designated funds for such a purpose. The national government has readily engaged with private-sector actors to support food recovery innovation, consistent with its National Program and Plan. Yet, to date, there is no national law that explicitly allocates sustainable funds for food recovery or donation.",
-      "data_national": "Government has adopted a national food donation law or developed a national policy, plan, or strategy that promotes food donation as a solution to food loss and waste. Argentina has established a National Plan for the Reduction of Food Loss and Waste and adopted a National Food Donation Law to ensure that safe food is donated rather than discarded.",
+      "data_national": "The government has codified a national food loss and waste reduction goal alongside a comprehensive national strategy that explicitly promotes food donation and redistribution as a priority solution, with a lead ministry or interagency body, clear mandate, and accountability mechanisms in place.<br />\r\n<br />\r\nArgentina's National Food Donation Law and National Plan to Reduce Food Loss and Waste explicitly address redistribution across the full value chain, with active multi-ministry engagement.",
       "_xml_tag": "ARG"
     }
   ]
